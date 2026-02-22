@@ -6,21 +6,21 @@ Designed and simulated an enterprise network with Head Office and two branch off
 
 ## 🏗️ Architecture
 
-4 Routers
+- 4 Routers
 
-3 Switches
+- 3 Switches
 
-VLAN segmentation
+- VLAN segmentation
 
-OSPF multi-area routing
+- OSPF multi-area routing
 
-PPP WAN links
+- PPP WAN links
 
-NAT Overload
+- NAT Overload
 
-DHCP + Relay
+- DHCP + Relay
 
-ACL Security Enforcement
+- ACL Security Enforcement
 
 ## 🔐 Security
 
